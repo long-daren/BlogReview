@@ -13,3 +13,7 @@
 
 项目功能
 * 短信登录、redis缓存、优惠卷秒杀、消息队列优化、达人探店、好友关注、签到功能。
+
+# 图片展示
+![主界面]
+https://lsl-gulimall.oss-cn-hangzhou.aliyuncs.com/123.jpg
